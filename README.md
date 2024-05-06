@@ -16,9 +16,9 @@ I learned that there are many more elements that go into a simple webpage than I
 
 ---
 
-## Instruction to run the application
+## Instructions to run the application
 
-1. Clone this repository to local computer
+Clone this repository to local computer
 
 ---
 
